@@ -1,4 +1,4 @@
-# simpleQRCodeApp
+# Scan-My-Id
 
 ## Getting Started
 
