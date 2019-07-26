@@ -2,7 +2,7 @@
 
 ## Getting Started
 
- `git clone https://github.com/BenHurMartins/simpleQRCodeApp.git && npm install`
+ `git clone https://github.com/Suesanz/Scan-My-Id.git && npm install`
 
 This App use the libraries bellow:
 
